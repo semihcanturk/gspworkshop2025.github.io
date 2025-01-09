@@ -1,7 +1,7 @@
 <div class="instructors clearfix">
   {% for speaker in site.data.staff.Speakers %}
   <div class="instructor-profile-two-col">
-    <a href="{{ speaker.url }}" target="_blank"><img src="{{ speaker.image | prepend: '/assets/img/' | relative_url }}" /></a>
+    <a href="{{ speaker.url }}" target="_blank"><img src="{{ speaker.image | prepend: 'gspworkshop2025.github.io/assets/img/' | relative_url }}" /></a>
     <ul class="instructor-info">
       <li> <a href="{{ speaker.url }}" target="_blank">{{ speaker.name }}</a></li>
       <li>{{ speaker.affiliation }}</li>

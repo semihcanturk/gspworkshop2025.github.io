@@ -9,7 +9,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 organizer: true
 
-top_image: /assets/img/gsp25/mtl_logo.png
+top_image: gspworkshop2025.github.io/assets/img/gsp25/mtl_logo.png
 top_image_alt: "Montréal, Canada"
 ---
 
