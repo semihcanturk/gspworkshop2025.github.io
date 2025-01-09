@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /venue/
+permalink: gspworkshop2025.github.io/venue/
 title: Venue
 description: 
 nav: true
