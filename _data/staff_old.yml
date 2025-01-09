@@ -1,4 +1,141 @@
 Speakers:
+  - name: Sergio Barbarossa
+    email: gspworkshop2024@gmail.com
+    affiliation: Sapienza University of Rome
+    url: https://sites.google.com/a/uniroma1.it/sergiobarbarossa/home
+    image: speakers/sergio.jpg
+    id: SB
+    topic: Topological signal processing and learning over cell complexes <br>
+    abstract: <b>Abstract:</b> <br> The goal of this lecture is to introduce the basic tools for processing signals defined over a topological space, focusing on simplicial and cell complexes. Nowadays, processing signals defined over graphs has become a mature technology. Graphs are just an example of topological space, incorporating only pairwise relations. In this lecture, we will motivate the need to generalize the graph-based methodologies to higher order structures, such as simplicial and cell complexes as spaces able to incorporate higher order relations in the representation space, still possessing a rich algebraic structure that facilitates the extraction of information. We will motivate the introduction of a Fourier Transform and recall the fundamentals of filtering and sampling of signals defined over such spaces. We will then show the impact of imperfect knowledge of the space on the tools used to extract information from data. Then we will present a probabilistic topological model for multivariate random variables defined over subsets of the space. Finally, we will show how to exploit the above tools in the design of topological neural networks, operating over signals defined over topological spaces of different order and we will present methods to infer the structure of the space from data.
+    bio: <br><b>Bio:</b> <br> Sergio Barbarossa is a Full Professor at Sapienza University of Rome and a Senior Research Fellow of Sapienza School for Advanced Studies (SSAS). He is an IEEE Fellow and a EURASIP Fellow. He received the IEEE Best Paper Awards from the IEEE Signal Processing Society in the years 2000, 2014, and 2020, and the Technical Achievements Award from the European Association for Signal Processing (EURASIP) society in 2010. He served as an IEEE Distinguished Lecturer in 2013-2014. He has been the scientific coordinator of several European projects and he is now coordinating a national project on network intelligence. His main current research interests include topological signal processing and learning, semantic and goal-oriented communications, 6G networks and distributed edge machine learning.
+
+  - name: Georgios B. Giannakis
+    email: gspworkshop2024@gmail.com
+    affiliation: University of Minnesota
+    url: https://spincom.umn.edu/
+    image: speakers/georgios.jpg
+    id: GG
+    topic: Coming soon
+    abstract:
+    bio:
+
+  - name: Francesca Parise
+    email: gspworkshop2024@gmail.com
+    affiliation: Cornell University
+    url: https://sites.coecis.cornell.edu/parise/
+    image: speakers/francesca.jpg
+    id: FP
+    topic: Coming soon
+    abstract:
+    bio:
+
+  - name: Stefan Vlaski
+    email: gspworkshop2024@gmail.com
+    affiliation: Imperial College London
+    url: https://stefanvlaski.github.io/
+    image: speakers/stefan.jpg
+    id: SV
+    topic: Coming soon
+    abstract:
+    bio:
+
+  - name: Smita Krishnaswamy
+    email: gspworkshop2024@gmail.com
+    affiliation: Yale University
+    url: https://krishnaswamylab.org/
+    image: speakers/smita.jpg
+    id: SK
+    topic: Coming soon
+    abstract:
+    bio:
+
+  - name: Piet Van Mieghem
+    email: gspworkshop2024@gmail.com
+    affiliation: TU Delft
+    url: https://www.nas.ewi.tudelft.nl/people/Piet/
+    image: speakers/piet.jpg
+    id: PVM
+    topic: Linear Processes on Networks <br>
+    abstract: <b>Abstract:</b> <br> From a network science point of view, we will discuss linear processes on a graph, which are the easiest, but also the most elegant processes. Real, time-dependent processes necessitate us to introduce the beautiful linear state space (LSS) model (in discrete time). We will briefly talk about two applications of LSS. Thereafter, we switch to the Laplacian matrix of a graph. From the spectral decomposition of the Laplacian, we will introduce the simplex of an undirected, possibly weighted graph. The simplex geometry of a graph is, besides the topology domain and the spectral domain, the third equivalent description of a graph. Continuous-time Markov processes are described by the Chapman-Kolmogorov (linear) equations, in which the appearing infinitesimal generator is, in fact, a weighted Laplacian of the Markov graph. We will discuss Markovian epidemics on a fixed graph, show limitations of the linear theory on graphs and introduce a mean-field approximation, a powerful method from physics, that results into non-linear governing equations.
+    bio: <br><b>Bio:</b> <br> Piet Van Mieghem (Fellow, IEEE) received the master's degree and the Ph.D. degree in electrical engineering from the KU Leuven, Leuven, Belgium, in 1987 and 1991, respectively.He is currently a Professor with the Delft University of Technology, Delft, The Netherlands. Since 1998, he has been a Chairman of the section Network Architectures and Services. He is the author of four books - Performance Analysis of Communications Networks and Systems, Data Communications Networking, Graph Spectra for Complex Networks, and Performance Analysis of Complex Networks and Systems. He is a board Member of the Netherlands Platform of Complex Systems, a steering committee Member of the Dutch Network Science Society, an external faculty Member of the Institute for Advanced Study (IAS) of the University of Amsterdam. He was the recipient of an Advanced ERC grant 2020 for ViSiON, Virus Spread in Networks. Before joining Delft, he was with the Interuniversity Micro Electronic Center (IMEC) from 1987 to 1991. From 1993 to 1998, he was a Member of the Alcatel Corporate Research Center in Antwerp. He was a visiting Scientist with MIT during 1992–1993 and a Visiting Professor with UCLA in 2005, Cornell University in 2009, Stanford University in 2015, and Princeton University in 2022. He is on the Editorial Board of the OUP Journal of Complex Networks. He was a Member of the editorial board of Computer Networks during 2005–2006, IEEE/ACM Transactions on Networking during 2008–2012, Journal of Discrete Mathematics during 2012–2014, and Computer Communications during 2012–2015.
+
+Instructors:
+  - name: Xiaowen Dong
+    email: xdong@robots.ox.ac.uk
+    affiliation: University of Oxford
+    url: https://web.media.mit.edu/~xdong/
+    image: people/xiaowen.jpg
+
+  - name: Antonio Marques
+    email: antonio.garcia.marques@urjc.es
+    affiliation: King Juan Carlos University | ELLIS Member (ELLIS Unit Madrid)
+    url: https://www.tsc.urjc.es/~amarques/
+    image: people/Marques_Square.jpg
+
+  - name: Gonzalo Mateos
+    email: gmateosb@ece.rochester.edu
+    affiliation: University of Rochester
+    url: https://www.hajim.rochester.edu/ece/sites/gmateos//
+    image: people/Gonzalo.jpg
+
+  - name: Santiago Segarra
+    email: segarra@rice.edu
+    affiliation: Rice University
+    url: https://segarra.rice.edu
+    image: people/SANTIAGO.jpg
+
+  - name: Dorina Thanou
+    email: dorina.thanou@epfl.ch
+    affiliation: EPFL | ELLIS Scholar (ELLIS Unit Lausanne)
+    url: https://people.epfl.ch/dorina.thanou?lang=en
+    image: people/Dorina.jpg
+
+  - name: Laura Toni
+    email: l.toni@ucl.ac.uk
+    affiliation: University College London | ELLIS Member (ELLIS Unit London)
+    url: https://www.ucl.ac.uk/iccs/dr-laura-toni
+    image: people/laura.jpg
+
+Local_team:
+  - name: Pedro Gomes
+    email: pedro.gomes.19@ucl.ac.uk
+    affiliation: University College London
+    url: https://laspucl2016.wpcomstaging.com/team/pedro-gomes/
+    image: people/pedro.jpg
+
+  - name: Keyue Jiang
+    email: keyue.jiang.18@ucl.ac.uk
+    affiliation: University College London
+    url: https://garyball.github.io/
+    image: people/keyue.jpg
+
+  - name: Henry Kenlay
+    email: kenlay@robots.ox.ac.uk
+    affiliation: University of Oxford
+    url: https://henrykenlay.github.io/
+    image: people/henry.jpg
+
+  - name: Nagham Osman
+    email: nagham.osman.21@ucl.ac.uk
+    affiliation: University College London
+    url: https://laspucl2016.wpcomstaging.com/team/nagham-osman/
+    image: people/nagham.jpg
+
+  - name: Baskaran Sripathmanathan
+    email: pemb5999@ox.ac.uk
+    affiliation: University of Oxford
+    url: https://gspworkshop.github.io
+    image: people/baskaran.jpg
+
+  - name: Bohan Tang
+    email: bohan.tang@eng.ox.ac.uk
+    affiliation: University of Oxford
+    url: https://gspworkshop.github.io
+    image: people/bohan_2.jpg
+
+
+
+Speakers:
   - name: Peter Battaglia
     email: gspworkshop2023@gmail.com
     affiliation: DeepMind

@@ -6,12 +6,12 @@ description:
 nav: true
 nav_order: 1
 
-top_image: /assets/img/gsp24/university.jpg
-top_image_alt: "Delft University of Technology"
+top_image: /assets/img/gsp25/mila.png
+top_image_alt: "Mila -- Quebec AI Institute"
 ---
 
 #### Venue
-GSP 2024 will take place at [Aula Conference Centre](https://map.tudelftcampus.nl/poi/aula-conference-centre/), Delft University of Technology, Delft, The Netherlands.
+GSP 2024 will take place at [Mila -- Quebec AI Institute](https://map.tudelftcampus.nl/poi/aula-conference-centre/), Montreal, Quebec, Canada.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
