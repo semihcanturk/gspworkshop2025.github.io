@@ -58,23 +58,27 @@ Mile-Ex is a dynamic neighborhood known for its mix of industrial charm and cutt
 ---
 ### Restaurants and bars
 
-Delft boasts a diverse culinary landscape, thanks in part to its thriving international student community. Within the city center, conveniently located within walking distance from the campus or accessible via bus, we recommend a selection of restaurants to satisfy a range of tastes: 
-+ "THUIS by Ladera": Immerse yourself in an authentic Dutch dining experience. Please make a reservation in advance, as it tends to fill up quickly. 
-+ If you're in the mood for pizza, consider trying "Bas Sil," "San Marco," or "Il Peperoncino." 
-+ Vegetarian or simply craving some veggie-focused cuisine? Head to "Hummus" or "The Harvest." 
-+ Embark on a global culinary journey at "Mekhong Thai-Lao" (Thai) or "Redjeki" (Indonesian). 
-+ For a cozy and inviting atmosphere with dishes inspired by far-flung locales such as South Africa, Mexico, Thailand, Peru, and Sri Lanka, venture to "Hanno Groots Cafe." 
+Montréal has an amazing food scene, with more restaurants and cafes per square kilometre than anywhere in the Americas. The city has a massive variety of food options, from diners and fast food to haute cuisine to the incredible vegan diversity across a plethora of cuisines. We won't attempt to do any justice to the scene, but will note down some suggestions for some Montreal classics and convenient places in the Mile-Ex/Little Italy area.
++ Bagels: St-Viateur's and Fairmount Bagels.
++ Smoked meat: Schwartz's Deli is the most authentic, but plenty of other places offer quality smoked meat sandwiches.
++ Poutine: Where you'll find the best poutine in Montreal is a very... divisive topic. La Banquise, Greenspot, Ma Poule Mouillée, Chez Tousignant, Chez Claudette, Chez Ma Tante, Frite alors!, Paulo & Suzanne... Good luck picking one!
++ Around Mile-Ex/Little Italy: Le Pick Up, Cafe Guerrero, Pumpui, San Gennaro are great for quick bites, with many good Italian cafes nearby. Cicchetti, Vices & Versa, Bar St-Denis and Wills are great for afternoon/evening drinks & food.
++ If you're looking for something different, Au Pied De Cochon in Le Pleateau is a staple for a bit fancier but super hearty Quebecois food. Lots of meat, foie-gras and poutine involved.
++ Many places offer vegetarian/vegan options, but several suggestions particularly focused on vegetarian/vegan food: Lola Rosa, Aux Vivres, Shushu Haru, Cafe Santropol, Bloom Sushi...
+
+
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/gsp25/mmfa.avif" title="Montreal Museum of Fine Arts" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp24/lachine_canal.avif" title="Lachine Canal" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
+        {% include figure.html path="assets/img/gsp25/lachine_canal.avif" title="Lachine Canal" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
 
 </div>
 
+---
 ### Sightseeing
 
 + Old Montréal contains the vast majority of historical buildings, most dating from the 17th - 19th century, the Notre-Dame Basilica, and many museums. There is also a 45 meter clock tower located in the Quai de l'Horloge, originally called the Victoria Pier, which you can climb up and get breathtaking views of the St. Laurence river and to a lesser extent, the city.
