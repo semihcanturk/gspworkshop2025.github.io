@@ -20,11 +20,11 @@ Montréal, Quebec, H2S 3H1 <br>
 Canada
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp25/mila.png" title="Aula Conference Center" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/gsp25/mila.png" title="Mila entrance" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp25/mtl.jpg" title="Tu Delft" class="img-fluid rounded z-depth-1" alt="Responsive image"%}
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/gsp25/mtl.jpg" title="Montreal skyline" class="img-fluid rounded z-depth-1" alt="Responsive image"%}
     </div>
 </div>
 
@@ -47,11 +47,11 @@ Mile-Ex is a dynamic neighborhood known for its mix of industrial charm and cutt
 **By bike:** Montreal is very bike-friendly, and [BIXI bike-sharing](https://bixi.com/en/) is very popular particularly in the warmer months with multiple stations available around Mila.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp25/old_mtl.webp" title="Train station" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/gsp25/old_mtl.webp" title="Old Montreal" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp25/little_italy.jpg" title="Bikes" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/gsp25/little_italy.jpg" title="Little Italy" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
 </div>
 
