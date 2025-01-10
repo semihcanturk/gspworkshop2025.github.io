@@ -17,7 +17,7 @@ Following a series of successful workshops since 2016, we are pleased to announc
 
 The workshop will provide a warm welcome to experts and practitioners from academia and industry in the field of graph signal processing (GSP). The goal of GSP is to generalize classical signal processing and statistical learning tools to signals on graphs (functions defined on a graph). The workshop will invite discussion on theoretical and foundational topics related to GSP, including graph transforms, sampling theorems, and filter design. The workshop will also highlight how such tools can be integrated into a learning framework, and show novel theoretical developments at the intersection of graph signal processing and graph machine learning. Examples of applications that will be showcased in the workshop include gene expression patterns defined on top of gene networks, the spread of epidemics over a social network, the congestion level at the nodes of a telecommunication network, and patterns of brain activity defined on top of a brain network.
 
-GSP 2025 is kindly supported by [TODO: insert sponsors].
+GSP 2025 is kindly supported by Mila -- Quebec AI Institute and Centre de recherches mathématiques (CRM).
 
 
 ---
