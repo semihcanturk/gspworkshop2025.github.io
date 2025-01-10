@@ -56,22 +56,6 @@ Mile-Ex is a dynamic neighborhood known for its mix of industrial charm and cutt
 </div>
 
 ---
-### Accommodation
-
-Among the multiple accommodation options in Delft, we recommend a few hotels at a convenient distance to the workshop venue:
- 
-+ [The Social Hub](https://www.thesocialhub.co/delft/stay/hotel-stay/), 20 min walking distance
-+ [Hampshire hotel](https://hoteldelftcentre.nl/en/home-en/ ), 25 min walking distance
-+ [Best Western Museumhotels Delft](https://www.bestwestern.nl/booking-path/hotel-details/grand-museum-hotel-bw-signature-collection-delft-92579), 30 min walking distance
-+ [Hotel Arsenaal Delft By Westcord](https://hotelarsenaal.com/), 20 min walking distance
-+ [Ibis Styles Delft City Center](https://www.ibisstylesdelftcity.nl/en/), 20 min walking distance
-+ [WestCord Hotel Delft](https://westcordhotels.com/hotel/hotel-delft/), 25 min walking distance
-+ [Boutique hotel Johannes](https://meetjohannes.nl/), 25 min walking distance
-+ [Hotel Johannes Vermeer](https://www.hotelvermeer.nl/), 20 min walking distance
-+ [Hotel Royal Bridges](https://www.royalbridges.nl/en/), 20 min walking distance
-+ [Hotel Grand Canal](https://www.grandcanaldelft.nl/en/), 20 min walking distance
-
----
 ### Restaurants and bars
 
 Delft boasts a diverse culinary landscape, thanks in part to its thriving international student community. Within the city center, conveniently located within walking distance from the campus or accessible via bus, we recommend a selection of restaurants to satisfy a range of tastes: 
