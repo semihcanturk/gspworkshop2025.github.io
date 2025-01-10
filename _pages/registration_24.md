@@ -5,7 +5,7 @@ title: Registration
 description:
 nav: false
 
-top_image: gspworkshop2025.github.io/assets/img/gsp24/delft.jpg
+top_image: /assets/img/gsp24/delft.jpg
 top_image_alt: "Delft, The Netherlands"
 ---
 
