@@ -67,10 +67,10 @@ Delft boasts a diverse culinary landscape, thanks in part to its thriving intern
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp24/delft2.jpg" title=" " class="img-fluid rounded z-depth-1" alt="Responsive image" %}
+        {% include figure.html path="assets/img/gsp25/mmfa.avif" title="Montreal Museum of Fine Arts" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp24/delft4.jpg" title=" " class="img-fluid rounded z-depth-1" alt="Responsive image" %}
+        {% include figure.html path="assets/img/gsp24/lachine_canal.avif" title="Lachine Canal" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
 
 </div>
@@ -88,10 +88,10 @@ Delft boasts a diverse culinary landscape, thanks in part to its thriving intern
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp24/delft3.jpg" title=" " class="img-fluid rounded z-depth-1" alt="Responsive image" %}
+        {% include figure.html path="assets/img/gsp25/victoria_square.avif" title=" " class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp24/delft5.jpg" title=" " class="img-fluid rounded z-depth-1" alt="Responsive image" %}
+        {% include figure.html path="assets/img/gsp25/plateau.jpg" title="Le Plateau" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
 
 </div>
