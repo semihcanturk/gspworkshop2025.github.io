@@ -6,19 +6,25 @@ description:
 nav: true
 nav_order: 1
 
-top_image: /assets/img/gsp25/mila.png
+top_image: /assets/img/gsp25/mila_header.jpg
 top_image_alt: "Mila -- Quebec AI Institute"
 ---
 
 #### Venue
-GSP 2024 will take place at [Mila -- Quebec AI Institute](https://mila.quebec/en), Montreal, Quebec, Canada.
+GSP 2025 will take place at [Mila -- Quebec AI Institute](https://mila.quebec/en), one of the world's biggest AI research institutes, located in the vibrant Mile-Ex neighborhood of Montréal.
+
+**Address:** <br>
+Mila - Quebec AI Institute <br>
+6666 Saint-Urbain Street, Suite 200 <br>
+Montréal, Quebec, H2S 3H1 <br>
+Canada
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp24/aula.jpg" title="Aula Conference Center" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
+        {% include figure.html path="assets/img/gsp25/mila.png" title="Aula Conference Center" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp24/aula2.jpg" title="Tu Delft" class="img-fluid rounded z-depth-1" alt="Responsive image"%}
+        {% include figure.html path="assets/img/gsp25/mtl.jpg" title="Tu Delft" class="img-fluid rounded z-depth-1" alt="Responsive image"%}
     </div>
 </div>
 
@@ -26,32 +32,26 @@ GSP 2024 will take place at [Mila -- Quebec AI Institute](https://mila.quebec/en
 ---
 #### How to get there
 
-**Amsterdam to Delft train station:** Amsterdam is well connected to the rest of the world. From Schiphol Airport you can take a direct train to Delft (around 40 minutes). 
-+ For information on the actual timetables and prices, download the NS app or the 9292 app, or visit ns.nl or 9292.nl. 
-+ You can pay for your trip with your debit or credit card (Maestro, V PAY, Mastercard or Visa are supported) at the entrance gates of the station. If you do not have a supported card, you can digitally purchase a train ticket via the 9292 or NS app (note that the 9292 app also allows to purchase bus tickets). 
+Mile-Ex is a dynamic neighborhood known for its mix of industrial charm and cutting-edge innovation. It's home to a thriving arts scene, excellent restaurants, and tech startups. It is also well-connected to the rest of the city via Montreal’s STM metro and bus system.
 
+**Transit apps:** The STM-recommended transit apps are [Transit](https://transitapp.com/) and [Chrono](https://www.artm.quebec/en/chrono-mobile-application/), both are highly recommended. Transit has a nicer interface, but Chrono allows users to top-up their OPUS transit cards through the app. Google/Apple maps also work reasonably well.
 
-**Delft train station to hotel:** The Delft train station is within walking distance of most hotels (5-15 minutes).
+**Montréal (YUL) airport to the city:** From the airport you can take the express 747 bus to downtown, and switch to metro/bus lines from there.
++ To arrive at the Mile-Ex neighborhood, the easiest way to go is to get off the 747 bus at the Lionel-Groulx metro station, and take the orange metro line to Beaubien/Jean-Talon stations.
++ You'll need an OPUS card for all modes of transport. You can either buy a 10-ride pass, or a multi-day or weekly pass. Note that transport to/from the airport requires an additional pass that is slightly more expensive, but is typically covered by the weekly pass. There is personnel by the ticket machines at the airport, so it's a good idea to check with them to make sure you're buying the right ticket if you have any doubts.
 
-**To the venue:** The Aula Conference Centre is within walking distance (25 minutes) of Delft Train Station. 
-Alternatively, the venue can be reached by bus, which leaves from the south side of the station. 
-+ Take bus number 69, 455, or 174 and get out at 'Halte Aula TU, Delft'. For actual timings, see the NS app or the 9292 app, or visit ns.nl or 9292.nl. 
-+ Bus tickets can be purchased on the bus itself, using your debit or credit card (Maestro, V PAY, Mastercard or Visa are supported). Alternatively, you can purchase a bus ticket via the 9292 app. 
+**Getting to Mila by public transport:** The nearest metro stations are De Castelnau (Blue line), Beaubien (Orange line) and Jean-Talon (both Blue and Orange lines), all a short 10-15-minute walk from the venue. You can also take the 55 bus from De Castelnau, 160/18 buses from Beaubien, and 92/31 buses from Jean-Talon to shorten the walk. Multiple other bus lines, including the very frequent 55 and 80, also serve the area.
 
-**Transport by car:** The parking lot closest to the venue is located at the Van der Waalsweg (to reach the parking lot, after leaving the roundabout, you directly take the right). 
-+ The hourly rate is 2 euros/ hour, with a maximum of 10 euros daily. Note that the gates do not open if the parking lot is full. In that case, please resort to the parking lot at the Van den Broekweg 1. 
-+ You need to scan a mifare card (e.g., your bank card or credit card) to enter. When scanning your card, no transaction will occur; you need to pay at a machine in the parking lot before you leave. 
-+ Do not park in the nearby neighborhood, i.e., non-TU Delft parking areas, since you need a permit for that! 
-+ Please, visit [this](https://www.tudelft.nl/en/about-tu-delft/contact-and-campus/parking-policy) and [this](https://www.tudelftcampus.nl/accessibility/) websites for more information on accessibility and parking. 
+**By taxi/rideshare/car:** Both taxis and rideshare services (Uber/Lyft) are readily available in Montreal. If you're driving yourself, do keep in mind that street parking in the surrounding area is available but limited.
 
-**Watch out for bikes! :wink:**
+**By bike:** Montreal is very bike-friendly, and [BIXI bike-sharing](https://bixi.com/en/) is very popular particularly in the warmer months with multiple stations available around Mila.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp24/train.jpg" title="Train station" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
+        {% include figure.html path="assets/img/gsp25/old_mtl.webp" title="Train station" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/gsp24/bikes.jpg" title="Bikes" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
+        {% include figure.html path="assets/img/gsp25/little_italy.jpg" title="Bikes" class="img-fluid rounded z-depth-1" alt="Responsive image" %}
     </div>
 </div>
 
