@@ -34,16 +34,7 @@ GSP 2025 is kindly supported by Mila -- Quebec AI Institute and Centre de recher
 + **Workshop:** May 14-16, 2025
 
 ---
-#### Invited Speakers
-
-<!---
-+ [Sergio Barbarossa](https://sites.google.com/a/uniroma1.it/sergiobarbarossa/home) (Sapienza University of Rome)
-+ [Georgios B. Giannakis](https://spincom.umn.edu/) (University of Minnesota)
-+ [Francesca Parise](https://sites.coecis.cornell.edu/parise/) (Cornell University)
-+ [Stefan Vlaski](https://stefanvlaski.github.io/) (Imperial College London)
-+ [Smita Krishnaswamy](https://krishnaswamylab.org/) (Yale University)
-+ [Piet Van Mieghem](https://www.nas.ewi.tudelft.nl/people/Piet/) (TU Delft)
---->
+#### Invited Speakers (Tentative)
 
 {% include speakers.html %}
 
