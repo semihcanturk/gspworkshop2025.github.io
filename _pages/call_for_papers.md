@@ -23,7 +23,7 @@ We accept submission of **2-page extended abstracts** with standard IEEE or ACM 
 
 **As of 02/01/2025, submissions are open [here](https://cmt3.research.microsoft.com/GSP2024).**
 
-If you have any questions regarding submission or inquiries about the workshop, please contact [gspworkshop2024@gmail.com](mailto:gspworkshop2024@gmail.com).
+If you have any questions regarding submission or inquiries about the workshop, please contact [gsp.2025@mila.quebec](mailto:gsp.2025@mila.quebec).
 
 ---
 #### Area of interest
