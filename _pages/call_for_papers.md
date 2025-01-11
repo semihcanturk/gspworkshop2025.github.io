@@ -21,7 +21,7 @@ top_image_alt: "Montréal, Canada"
 #### Submission
 We accept submission of **2-page extended abstracts** with standard IEEE or ACM format. Accepted contributions will be arranged in the format of oral or poster presentations. The workshop is a venue to share recent research results with **no published proceedings**. Authors are encouraged to send previously published papers as extended abstracts. Authors of accepted abstracts who are interested in further advertising their work are welcome to submit their abstract (or the full version of their work) to arXiv with the quote "This work was accepted to be presented at the Graph Signal Processing Workshop 2025".
 
-**As of 02/01/2025, submissions are open [here (TODO: Update link)](https://cmt3.research.microsoft.com/GSP2024).**
+**Submissions will open on Feb 1st, 2025.**
 
 If you have any questions regarding submission or inquiries about the workshop, please contact [gsp.2025@mila.quebec](mailto:gsp.2025@mila.quebec).
 

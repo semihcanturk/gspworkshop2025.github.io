@@ -11,7 +11,7 @@ top_image_alt: "Montréal, Canada"
 ---
 
 #### Registration
-Registration is mandatory for attending the workshop and is open [here (TODO: Update link)](https://www.aanmelder.nl/153767).
+Registration is mandatory for attending the workshop, and will open on Feb 1st, 2025.
 
 Registration fees:
 + Early student - 375 CAD
