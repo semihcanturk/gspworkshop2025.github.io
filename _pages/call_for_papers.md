@@ -6,8 +6,8 @@ description:
 nav: true
 nav_order: 3
 
-top_image: /assets/img/gsp24/delft.jpg
-top_image_alt: "Delft, The Netherlands."
+top_image: /assets/img/gsp25/mtl_logo.png
+top_image_alt: "Montréal, Canada"
 ---
 
 #### Important Dates
@@ -19,9 +19,9 @@ top_image_alt: "Delft, The Netherlands."
 
 ---
 #### Submission
-We accept submission of **2-page extended abstracts** with standard IEEE or ACM format. Accepted contributions will be arranged in the format of oral or poster presentations. The workshop is a venue to share recent research results with **no published proceedings**. Authors are encouraged to send previously published papers as extended abstracts. Authors of accepted abstracts who are interested in further advertising their work are welcome to submit their abstract (or the full version of their work) to arXiv with the quote "This work was accepted to be presented at the Graph Signal Processing Workshop 2024".
+We accept submission of **2-page extended abstracts** with standard IEEE or ACM format. Accepted contributions will be arranged in the format of oral or poster presentations. The workshop is a venue to share recent research results with **no published proceedings**. Authors are encouraged to send previously published papers as extended abstracts. Authors of accepted abstracts who are interested in further advertising their work are welcome to submit their abstract (or the full version of their work) to arXiv with the quote "This work was accepted to be presented at the Graph Signal Processing Workshop 2025".
 
-**As of 02/01/2025, submissions are open [here](https://cmt3.research.microsoft.com/GSP2024).**
+**As of 02/01/2025, submissions are open [here (TODO: Update link)](https://cmt3.research.microsoft.com/GSP2024).**
 
 If you have any questions regarding submission or inquiries about the workshop, please contact [gsp.2025@mila.quebec](mailto:gsp.2025@mila.quebec).
 
