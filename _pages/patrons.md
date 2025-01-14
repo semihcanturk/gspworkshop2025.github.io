@@ -21,4 +21,6 @@ organizer: true
 
 ---
 #### Valence Labs
-<a href="https://www.valencelabs.com"><img id = 'valence_logo' class="img-fluid" src="/assets/img/logos/valence_logo.png" style="margin: 10px 10px 10px 10px;"></a>
+<a href="https://www.valencelabs.com"><img id = 'valence_logo' class="img-fluid" src="/assets/img/logos/valence_logo.svg" style="margin: 10px 10px 10px 10px;"></a>
+
+Valence Labs, powered by Recursion, is a semi-autonomous research lab dedicated to industrializing scientific discovery. Combining industry-leading computing power, proprietary multimodal datasets, automated lab infrastructure, and research teams across Montreal and London, Valence Labs is designing, developing, and deploying the future of scientific discovery to decode biology and radically improve lives.
