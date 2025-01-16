@@ -48,3 +48,13 @@ Speakers:
     topic: TBA
     abstract:
     bio:
+
+  - name: Danai Koutra
+    email: gsp.2025@mila.quebec
+    affiliation: University of Michigan, Ann Arbor
+    url: https://web.eecs.umich.edu/~dkoutra/
+    image: speakers/danai.jpeg
+    id: DK
+    topic: TBA
+    abstract:
+    bio:
