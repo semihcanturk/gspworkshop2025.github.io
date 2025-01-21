@@ -3,7 +3,7 @@ Speakers24:
     email: gsp.2025@mila.quebec
     affiliation: Sapienza University of Rome
     url: https://sites.google.com/a/uniroma1.it/sergiobarbarossa/home
-    image: speakers/sergio.jpg
+    image: speakers/gsp24/sergio.jpg
     id: SB
     topic: Topological signal processing and learning over cell complexes <br>
     abstract: <b>Abstract:</b> <br> The goal of this lecture is to introduce the basic tools for processing signals defined over a topological space, focusing on simplicial and cell complexes. Nowadays, processing signals defined over graphs has become a mature technology. Graphs are just an example of topological space, incorporating only pairwise relations. In this lecture, we will motivate the need to generalize the graph-based methodologies to higher order structures, such as simplicial and cell complexes as spaces able to incorporate higher order relations in the representation space, still possessing a rich algebraic structure that facilitates the extraction of information. We will motivate the introduction of a Fourier Transform and recall the fundamentals of filtering and sampling of signals defined over such spaces. We will then show the impact of imperfect knowledge of the space on the tools used to extract information from data. Then we will present a probabilistic topological model for multivariate random variables defined over subsets of the space. Finally, we will show how to exploit the above tools in the design of topological neural networks, operating over signals defined over topological spaces of different order and we will present methods to infer the structure of the space from data.
@@ -13,7 +13,7 @@ Speakers24:
     email: gsp.2025@mila.quebec
     affiliation: University of Minnesota
     url: https://spincom.umn.edu/
-    image: speakers/georgios.jpg
+    image: speakers/gsp24/georgios.jpg
     id: GG
     topic: Coming soon
     abstract:
@@ -23,7 +23,7 @@ Speakers24:
     email: gsp.2025@mila.quebec
     affiliation: Cornell University
     url: https://sites.coecis.cornell.edu/parise/
-    image: speakers/francesca.jpg
+    image: speakers/gsp24/francesca.jpg
     id: FP
     topic: Coming soon
     abstract:
@@ -33,7 +33,7 @@ Speakers24:
     email: gsp.2025@mila.quebec
     affiliation: Imperial College London
     url: https://stefanvlaski.github.io/
-    image: speakers/stefan.jpg
+    image: speakers/gsp24/stefan.jpg
     id: SV
     topic: Coming soon
     abstract:
@@ -53,7 +53,7 @@ Speakers24:
     email: gsp.2025@mila.quebec
     affiliation: TU Delft
     url: https://www.nas.ewi.tudelft.nl/people/Piet/
-    image: speakers/piet.jpg
+    image: speakers/gsp24/piet.jpg
     id: PVM
     topic: Linear Processes on Networks <br>
     abstract: <b>Abstract:</b> <br> From a network science point of view, we will discuss linear processes on a graph, which are the easiest, but also the most elegant processes. Real, time-dependent processes necessitate us to introduce the beautiful linear state space (LSS) model (in discrete time). We will briefly talk about two applications of LSS. Thereafter, we switch to the Laplacian matrix of a graph. From the spectral decomposition of the Laplacian, we will introduce the simplex of an undirected, possibly weighted graph. The simplex geometry of a graph is, besides the topology domain and the spectral domain, the third equivalent description of a graph. Continuous-time Markov processes are described by the Chapman-Kolmogorov (linear) equations, in which the appearing infinitesimal generator is, in fact, a weighted Laplacian of the Markov graph. We will discuss Markovian epidemics on a fixed graph, show limitations of the linear theory on graphs and introduce a mean-field approximation, a powerful method from physics, that results into non-linear governing equations.
@@ -140,7 +140,7 @@ Speakers:
     email: gspworkshop2023@gmail.com
     affiliation: DeepMind
     url: https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en
-    image: speakers/peter.jpg
+    image: speakers/gsp24/peter.jpg
     id: PB
     topic: Coming soon
     abstract:
@@ -150,7 +150,7 @@ Speakers:
     email: gspworkshop2023@gmail.com
     affiliation: Peking University
     url: https://www.wict.pku.edu.cn/huwei/
-    image: speakers/wei.jpg
+    image: speakers/gsp24/wei.jpg
     id: WH
     topic: Graph Spectral Processing and Analysis for 3D Point Clouds <br>
     abstract: <b>Abstract:</b> <br> Geometric data acquired from real-world scenes, e.g., 2D depth images, 3D point clouds, and 4D dynamic point clouds, have found a wide range of applications including autonomous driving, robotics, augmented and virtual reality, surveillance, etc. Due to irregular sampling patterns of most geometric data, traditional image / video processing methodologies are limited, while Graph Signal Processing (GSP)—a fast-developing field in the signal processing community—enables processing signals that reside on irregular domains. Further, GSP provides insightful spectral interpretations and domain knowledge for the recently developed Graph Neural Networks (GNNs), leading to interpretability and robustness of GNNs. In this talk, I will mainly introduce our works on graph-based representation, reconstruction and analysis of 3D point clouds to illustrate the power of graph spectral processing and analysis.
@@ -160,7 +160,7 @@ Speakers:
     email: gspworkshop2023@gmail.com
     affiliation: LMU Munich
     url: https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html
-    image: speakers/gitta.jpg
+    image: speakers/gsp24/gitta.jpg
     id: GK
     topic: Reliable AI for Graph Signal Processing <br>
     abstract: <b>Abstract:</b><br> The new wave of artificial intelligence is impacting industry, public life, and the sciences in an unprecedented manner. A particular emphasis is on graph data due to the importance of application settings such as recommender systems, social media, or molecular dynamics. However, one current major drawback is the lack of reliability. The goal of this lecture is to first provide an introduction into this new vibrant research area. We will then survey recent advances, in particular, concerning performance guarantees and explainability methods, which are key to ensure reliability. Finally, we will discuss fundamental limitations in terms of computability, which seriously affect diverse aspects of reliability, and reveal a surprising connection to novel computing approaches such as neuromorphic computing and quantum computing.
@@ -170,7 +170,7 @@ Speakers:
     email: gspworkshop2023@gmail.com
     affiliation: University of Cambridge
     url: https://www.cl.cam.ac.uk/~pl219/
-    image: speakers/pietro_2.jpg
+    image: speakers/gsp24/pietro_2.jpg
     id: PL
     topic: Coming soon
     abstract:
@@ -180,7 +180,7 @@ Speakers:
     email: gspworkshop2023@gmail.com
     affiliation: ETH Zürich
     url: https://acl.inf.ethz.ch/people/markusp/
-    image: speakers/markus.jpg
+    image: speakers/gsp24/markus.jpg
     id: MP
     topic: Fourier Analysis with Direction <br>
     abstract: <b>Abstract:</b><br>Mainstream graph signal processing (GSP) provides no general solution in the case of directed edges in the signal domain, which is unsatisfactory (and somewhat surprising) given that classical discrete time is directed. In this talk I first present a possible solution for arbitrary directed graphs by generalizing the concept of cyclic boundary condition associated with the DFT. Then I present a novel approach to Fourier analysis and signal processing, fundamentally different from GSP, that targets signals whose domain is partially ordered. Important examples include power sets, meet/join lattices, and directed acyclic graphs. I present the theory and some prototypical applications in signal processing and machine learning.
@@ -190,7 +190,7 @@ Speakers:
     email: gspworkshop2023@gmail.com
     affiliation: Chinese University of Hong Kong
     url: https://www1.se.cuhk.edu.hk/~htwai/
-    image: speakers/hoito.jpg
+    image: speakers/gsp24/hoito.jpg
     id: HTW
     topic: Low Pass Graph Signal Processing - Data Modeling, Inference, and Beyond <br>
     abstract: <b>Abstract:</b><br>As a key building block in graph signal processing (GSP), graph filters has been used for giving an SP interpretation for network dynamics and the resultant graph data. SP methods such as frequency analysis, system identification, etc., have been applied with analogous interpretation to graph data, allowing us to interpret graph data as low/mid/high pass graph signals. This talk concentrates on GSP with low pass graph signals whose underlying graph filter attenuates contents in the high graph frequencies while retaining those in the low graph frequencies. Notice that this effectively implies the common notion of “smooth graph signals”. We first show the prevalence of low pass graph signals in data models such as for social networks, financial markets. We then demonstrate how properties of low pass graph signals can be leveraged for various forms of graph inference tasks from data. We will discuss recent results such as graph topology learning, inference of graph topology features such as community, centrality, detection of low pass graph signals, etc. The effects of low pass filtering in graph machine learning will also be discussed.
