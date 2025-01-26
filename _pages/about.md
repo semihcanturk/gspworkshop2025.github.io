@@ -39,7 +39,7 @@ GSP 2025 is kindly supported by Mila -- Quebec AI Institute, Centre de recherche
 {% include speakers.html %}
 
 ---
-### Program Chairs
+#### Program Chairs
 + [Rex Ying](https://www.cs.yale.edu/homes/ying-rex/) (Yale)
 + [Michael Perlmutter](https://sites.google.com/view/perlmutma/home) (Boise State University)
 + [Kevin R. Moon](https://sites.google.com/a/umich.edu/kevin-r-moon/home) (Utah State University)
