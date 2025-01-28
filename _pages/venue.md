@@ -15,7 +15,7 @@ GSP 2025 will take place at [Mila -- Quebec AI Institute](https://mila.quebec/en
 
 **Address:** <br>
 Mila - Quebec AI Institute <br>
-6666 Saint-Urbain Street, Suite 200 <br>
+6650 Saint-Urbain Street, Suite 200 <br>
 Montréal, Quebec, H2S 3H1 <br>
 Canada
 
