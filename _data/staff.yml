@@ -58,3 +58,13 @@ Speakers:
     topic: TBA
     abstract:
     bio:
+
+  - name: Reihaneh Rabbany
+    email: rrabba@cs.mcgill.ca
+    affiliation: McGill University, Mila -- Quebec AI Institute
+    url: http://www.reirab.com
+    image: speakers/reihaneh.webp
+    id: RR
+    topic: TBA
+    abstract:
+    bio:
