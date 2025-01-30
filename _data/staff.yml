@@ -60,11 +60,21 @@ Speakers:
     bio:
 
   - name: Reihaneh Rabbany
-    email: rrabba@cs.mcgill.ca
+    email: gsp.2025@mila.quebec
     affiliation: McGill University, Mila -- Quebec AI Institute
     url: http://www.reirab.com
     image: speakers/reihaneh.webp
     id: RR
+    topic: TBA
+    abstract:
+    bio:
+
+  - name: Melanie Weber
+    email: gsp.2025@mila.quebec
+    affiliation: Harvard University
+    url: https://melanie-weber.com
+    image: speakers/melanie.jpg
+    id: MW
     topic: TBA
     abstract:
     bio:
