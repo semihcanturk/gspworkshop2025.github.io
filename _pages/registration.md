@@ -11,7 +11,7 @@ top_image_alt: "Montréal, Canada"
 ---
 
 #### Registration
-Registration is mandatory for attending the workshop, and will open on Feb 1st, 2025.
+Registration is mandatory for attending the workshop and is open [here](https://www.crmath.ca/act/crm_moneris/app/views/Form/inscr_GSP25_e.php).
 
 Registration fees:
 + Early student - 375 CAD

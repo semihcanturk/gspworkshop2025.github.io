@@ -22,6 +22,7 @@ GSP 2025 is kindly supported by Mila -- Quebec AI Institute, Centre de recherche
 
 ---
 #### News
++ **[2025/02/01]** The registration form is now live [here](https://www.crmath.ca/act/crm_moneris/app/views/Form/inscr_GSP25_e.php).
 + **[2025/01/09]** The website is now up.
 
 
