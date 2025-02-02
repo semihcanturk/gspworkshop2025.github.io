@@ -11,17 +11,22 @@ top_image_alt: "Montréal, Canada"
 ---
 
 #### Important Dates
-+ **Submission open:** February 1, 2025
++ **Submissions open:** February 1, 2025
 + **Submission deadline:** **February 21, 2025**
 + **Notification of acceptance:** March 20, 2025
 + **Early registration:** March 20, 2025
 + **Workshop:** May 14-16, 2025
 
 ---
-#### Submission
+#### Extended Abstracts Track
 We accept submission of **2-page extended abstracts** with standard IEEE or ACM format. Accepted contributions will be arranged in the format of oral or poster presentations. The workshop is a venue to share recent research results with **no published proceedings**. Authors are encouraged to send previously published papers as extended abstracts. Authors of accepted abstracts who are interested in further advertising their work are welcome to submit their abstract (or the full version of their work) to arXiv with the quote "This work was accepted to be presented at the Graph Signal Processing Workshop 2025".
 
 **Submissions will open on Feb 1st, 2025.**
+
+#### TMLR Journal Track
+We are excited to announce a special TMLR Journal Track this year! This track aims to provide authors of recently published journal papers at TMLR with a platform to present their work to the GSP community. The top papers are chosen for our journal spotlights. TMLR will also provide a "GSP certification" for accepted papers presented at GSP. Register your interest in presenting your TMLR work by clicking [here](https://t.co/8D72l87H8k) or the button below:
+
+<button name="button" onclick="https://t.co/8D72l87H8k">TMLR Journal Track Submission Form</button>
 
 If you have any questions regarding submission or inquiries about the workshop, please contact [gsp.2025@mila.quebec](mailto:gsp.2025@mila.quebec).
 
