@@ -26,7 +26,8 @@ We accept submission of **2-page extended abstracts** with standard IEEE or ACM 
 #### TMLR Journal Track
 We are excited to announce a special TMLR Journal Track this year! This track aims to provide authors of recently published journal papers at TMLR with a platform to present their work to the GSP community. The top papers are chosen for our journal spotlights. TMLR will also provide a "GSP certification" for accepted papers presented at GSP. Register your interest in presenting your TMLR work by clicking [here](https://t.co/8D72l87H8k) or the button below:
 
-<button name="button" onclick="https://t.co/8D72l87H8k">TMLR Journal Track Submission Form</button>
+ <form action="https://t.co/8D72l87H8k" method="get" target="_blank"><button type="submit">TMLR Journal Track Submission Form</button></form>
+
 
 If you have any questions regarding submission or inquiries about the workshop, please contact [gsp.2025@mila.quebec](mailto:gsp.2025@mila.quebec).
 
