@@ -42,6 +42,12 @@ GSP 2025 is kindly supported by Mila -- Quebec AI Institute, Centre de recherche
 {% include speakers.html %}
 
 ---
+#### General Chairs
+
++ [Smita Krishnaswamy](https://krishnaswamylab.org) (Yale/CRM/Mila)
++ [Guy Wolf](http://guywolf.org) (Université de Montréal/Mila)
+
+---
 #### Program Chairs
 + [Rex Ying](https://www.cs.yale.edu/homes/ying-rex/) (Yale)
 + [Michael Perlmutter](https://sites.google.com/view/perlmutma/home) (Boise State University)
